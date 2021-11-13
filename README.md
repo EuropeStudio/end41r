@@ -1,5 +1,19 @@
 # end41r
-Hi, I am end41r
 
+- Hello, im end41r!
+- From Germany :de:
+- I'm a member this organization
 
-https://camo.githubusercontent.com/ac86f95b2778f64b81346b151df6f56b712b3b7843a101a40a5a7f3515ab370c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d43617473417265476f6f64313333372673686f775f69636f6e733d74727565267468656d653d64726163756c61
+##### Follow me 
+[![Gitub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)](https://github.com/end41r)
+
+- Writing code on:
+ >Python,
+ >C/C++
+
+- Interested learn:
+ >C++,
+ >Java,
+ >JS and web
+
+![Stats](https://github-readme-stats.vercel.app/api?username=end41r&show_icons=true&theme=dracula)
